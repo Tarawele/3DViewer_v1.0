@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/steinbrp/C8_3DViewer_v1.0-1/src/parser",
+      "program": "/Users/steinbrp/C8_3DViewer_v1.0-1/src/parser/build/Debug/outDebug"
+    }
+  ]
+}
